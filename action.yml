@@ -1,5 +1,5 @@
-name: "Dokku Deploy action"
-author: "Ido Berkovich"
+name: "DOKKU GO DEPLOY"
+author: "iamharshdev"
 description: "Deploy to a dokku instance using Github actions"
 branding:
   icon: "upload-cloud"
